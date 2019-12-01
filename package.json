@@ -1,0 +1,24 @@
+{
+  "name": "mountain-travel",
+  "version": "1.0.0",
+  "description": "Site de viagens para aventureiros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-viniciuss/Mountain-Travel.git"
+  },
+  "author": "Marcus Vinicius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-viniciuss/Mountain-Travel/issues"
+  },
+  "homepage": "https://github.com/dev-viniciuss/Mountain-Travel#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
+  }
+}
