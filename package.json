@@ -18,7 +18,7 @@
   "homepage": "https://github.com/dev-viniciuss/Mountain-Travel#readme",
   "dependencies": {
     "bootstrap": "^4.0.0-beta.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "popper.js": "^1.16.0"
   }
 }
